@@ -1,8 +1,8 @@
-##This project is a simple single-page restaurant website created using React and Vite. It showcases the menu, opening hours, and contact information for the restaurant.
+### This project is a simple single-page restaurant website created using React and Vite. It showcases the menu, opening hours, and contact information for the restaurant.
 
 <img width="1679" alt="Screenshot 2024-02-28 at 13 16 53" src="https://github.com/mowabanga/restaurant_landing_page/assets/106926800/22d89a27-3adf-46bf-beca-9ce5060091a1">
 
-###Features
+### Features
 - **Menu Display**: View the various offerings of the restaurant with detailed descriptions.
 - **Responsive Design**: The website is optimized for various screen sizes, ensuring a seamless experience across devices.
 - **Contact Information**: Easily find the restaurant's location, contact number, and email address.
