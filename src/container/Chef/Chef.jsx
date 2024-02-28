@@ -16,13 +16,14 @@ const Chef = () => (
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="quote" />
           <p className="p__opensans">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro,
-            labore minus quos temporibus eos tempore quasi magni in accusamus!
+            I've been a cook all my life, but I am still learning to be a good
+            chef. I'm always learning new techniques and improving beyond my own
+            knowledge
           </p>
         </div>
         <p className="p__opensans">
-          quo dolorum soluta inventore nesciunt, exercitationem eveniet minima
-          laborum excepturi vero corporis! Totam, nihil ratione.
+          because there is always something new to learn and new horizons to
+          discover.
         </p>
       </div>
       <div className="app__chef-sign">
